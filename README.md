@@ -6,8 +6,7 @@ This Python script generates random passwords based on user-defined criteria. Us
 # How to Use
 
 1. Open a terminal or command prompt.
-2. Navigate to the directory containing password_generator.py.
-3. Run the script by entering: python password_generator.py
+2. Run the script by entering: python my_password_generator.py
 
 # User Input
 
